@@ -23,6 +23,12 @@ A quick summary of different folders:
 * `props/` is the property evaluation module, including penalized logP, QED and DRD2 property calculation.
 * `scripts/` provides evaluation and data preprocessing scripts.
 
+
+## Implementation of CORE
+
+* `fast_jtnn/xxx.py` 
+
+
 ## Contact
 Tianfan Fu (futianfan@gmail.com)
 
