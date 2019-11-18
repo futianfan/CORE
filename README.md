@@ -1,9 +1,9 @@
 # CORE: Automatic Molecule Optimization using Copy and Refine Strategy (AAAI 2020)
 
-This repo relies heavily on https://github.com/wengong-jin/iclr19-graph2graph
+This repo relies heavily on Graph2Graph (https://github.com/wengong-jin/iclr19-graph2graph). 
 
 
-## Requirements
+## Requirements (Following Graph2Graph)
 * Python == 2.7
 * RDKit >= 2017.09
 * PyTorch >= 0.4.0
@@ -12,7 +12,7 @@ This repo relies heavily on https://github.com/wengong-jin/iclr19-graph2graph
 
 The code has been tested under python 2.7 with pytorch 0.4.1. 
 
-## Quick Start
+## Quick Start (Following Graph2Graph)
 The tutorial of training and testing our variational junction tree encoder-decoder is in [diff_vae/README.md](./diff_vae).
 
 A quick summary of different folders:
