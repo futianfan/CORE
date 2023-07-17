@@ -6,6 +6,11 @@ iterative prediction task is often inaccurate, especially for substructures that
 We tested CORE and baselines using the ZINC database and CORE obtained up to 11% and 21% relative improvement over the baselines on success rate on the complete test set and
 the subset with infrequent substructures, respectively.
 
+
+<p align="center"><img src="pipeline.png" alt="logo" width="860px" /></p>
+
+
+
 ## Requirements (Following Graph2Graph)
 * Python == 2.7
 * RDKit >= 2017.09
