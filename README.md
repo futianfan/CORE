@@ -1,6 +1,5 @@
 # CORE: Automatic Molecule Optimization using Copy and Refine Strategy (AAAI 2020)
 
-This repo relies heavily on Graph2Graph (https://github.com/wengong-jin/iclr19-graph2graph). 
 
 
 ## Requirements (Following Graph2Graph)
@@ -27,6 +26,8 @@ A quick summary of different folders:
 ## Implementation of CORE
 
 * `fast_jtnn/xxx.py` 
+
+This repo is adapted from [Graph2Graph](https://github.com/wengong-jin/iclr19-graph2graph). 
 
 
 ## Contact
